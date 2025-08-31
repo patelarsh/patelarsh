@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/scripts/ 
+Allow:/index.html/
+Allow:/contact.html/
+
+Disallow: /database/
+
+sitemap:https://patelarsh.com/sitemap.xml/
